@@ -1,0 +1,85 @@
+
+h1{
+	text-align: center;
+	
+	}
+h4{
+	text-align: center;
+}
+}
+
+}
+.slider{
+	width: 50%;
+	margin: auto;
+	overflow: hidden;
+}
+.slider ul {
+	display: flex;
+	padding: 100;
+	width: 1000;
+
+	animation: cambio 5s infinite alternate;
+
+
+}
+.slider li {
+    width: 100%;
+	list-style: none;-
+
+}
+.slider img {
+	width: 40%;
+
+}
+.cent{
+	width:40%;
+	position: absolute;
+	margin-left: 20%;
+	height: 500px;
+	
+}
+
+.art{
+
+	margin-left: 
+	position: absolute;
+	font-size: 80%;
+	
+}
+p{
+	padding: 5px 20px;
+	margin: 5%
+}
+div{
+	
+}
+section{
+	border: 2px solid #aaa;
+
+	}
+.der{
+	width:60%;
+	position: absolute;
+	margin-left: 110%;
+	height: 500px;
+	top:-0%;
+	
+}
+.iz{
+	width:18%;
+	position: absolute;
+	margin-left: -0%;
+	height: -;0%
+	top:36%;
+
+	
+	
+
+}
+
+
+
+
+	
+

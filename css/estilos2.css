@@ -1,0 +1,51 @@
+div{
+	border: 3px solid #000;
+
+
+	
+}
+p{
+	border: 2px solid #0a0;
+	padding: 5px 20px;
+	
+}
+h1{
+	text-align: center;
+	
+}
+h3{
+	text-align: center;
+}
+.iz{
+	width:20%;
+	position: absolute;
+	margin-left: 0%;
+}
+.cent{
+	width:75%;
+	position: absolute;
+	margin-left: 20%;
+	height: 40px;
+	
+	
+
+}
+article{
+	border: px solid #E360BD;
+	height: 200px;
+
+}
+img{
+	width: 00%;
+	height: 200%;
+	position: absolute;
+	margin-left: -300px;
+
+}
+.art{
+	margin-left: 30%;
+	position: absolute;
+	font-size: 80%;
+	
+
+}
